@@ -1,0 +1,2 @@
+# semicore
+for embeded projects
